@@ -1,2 +1,1 @@
-# harada-world
-Source for harada.world
+Source code for Haradas
